@@ -1,0 +1,21 @@
+{
+  "name": "picos-mod-aws",
+  "version": "0.1.0",
+  "description": "picos aws module",
+  "main": "index.js",
+  "dependencies": {
+    "aws-sdk": "^2.53.0",
+    "pico-args": "^1.0.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "picoes",
+    "aws",
+    "module"
+  ],
+  "author": "Darren Liew",
+  "license": "MIT"
+}
